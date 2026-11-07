@@ -1,0 +1,28 @@
+[
+  {
+    "source": "刀剑神域 - courage.flac",
+    "output": "courage-a1b2c3d4.mp3",
+    "audioUrl": "/audio/op-ed/courage-a1b2c3d4.mp3",
+    "anime": "刀剑神域",
+    "song": "courage",
+    "kind": "OP",
+    "slug": "courage-a1b2c3d4",
+    "fingerprint": "9c1f0a7b2e4d5c63",
+    "bytes": 159744,
+    "status": "created",
+    "updatedAt": "2026-11-07T01:00:00.000Z"
+  },
+  {
+    "source": "进击的巨人 - 美しき残酷な世界 [ED].flac",
+    "output": "track-e5f6a7b8.mp3",
+    "audioUrl": "/audio/op-ed/track-e5f6a7b8.mp3",
+    "anime": "进击的巨人",
+    "song": "美しき残酷な世界",
+    "kind": "ED",
+    "slug": "track-e5f6a7b8",
+    "fingerprint": "3b7d91c0aa52ef48",
+    "bytes": 158912,
+    "status": "created",
+    "updatedAt": "2026-11-07T01:00:00.000Z"
+  }
+]

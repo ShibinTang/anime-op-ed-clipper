@@ -1,0 +1,28 @@
+{
+  "name": "anime-op-ed-clipper",
+  "version": "0.1.0",
+  "description": "Turn local anime OP/ED audio into short MP3 intro clips plus a manifest.json. Zero dependencies, offline only.",
+  "type": "module",
+  "bin": {
+    "anime-op-ed-clipper": "scripts/clip.mjs"
+  },
+  "scripts": {
+    "test": "node scripts/selftest.mjs",
+    "clip": "node scripts/clip.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "agent-skills",
+    "ffmpeg",
+    "audio",
+    "clip",
+    "anime",
+    "op",
+    "ed",
+    "cli",
+    "manifest"
+  ],
+  "license": "MIT"
+}
